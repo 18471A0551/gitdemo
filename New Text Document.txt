@@ -1,4 +1,6 @@
 Hello 
 Hi
-How are you?
-Where are you from?
+How are you ?
+Welcome to Git Tutorials
+Have a Great Learning
+All The Best
